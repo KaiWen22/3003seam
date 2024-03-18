@@ -29,6 +29,8 @@ public class Result {
      		System.out.println("Hello");
      		return;
 	}
+
+    void myTest(){}
 	
 
 }
